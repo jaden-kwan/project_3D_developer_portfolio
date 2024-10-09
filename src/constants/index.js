@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Robotics",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Artist",
     icon: creator,
   },
 ];
@@ -116,21 +116,19 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Web Developer",
+    company_name: "Mercurious Marketing",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Dec 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I co-founded Mercurious Marketing, a Toronto-based design agency, aiding multiple clients in building their digital presence, and iterating improvement of SEO. Throughout the past year, I have led a team of web developers and graphic designers in various campaigns for local businesses.",
+      
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Math/CS Tutor",
+    company_name: "Freelance",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
@@ -142,8 +140,8 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Principal Actor",
+    company_name: "Vanderwerff Talent",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
